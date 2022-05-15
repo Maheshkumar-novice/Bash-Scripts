@@ -1,4 +1,13 @@
 # Fun Shell Scripts!
+
+## How to USE?
+```sh
+git clone <this-repo>
+```
+
+```sh
+bash <script-name>
+```
  
 ## game.sh & functions.sh:
   * game.sh - Main file
