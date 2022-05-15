@@ -1,10 +1,17 @@
 # Fun Shell Scripts!
 
 ## How to USE?
+
+### step: 1
 ```sh
 git clone <this-repo>
 ```
+### step: 2
+```sh
+cd <this-repo-name>
+```
 
+### step: 3
 ```sh
 bash <script-name>
 ```
