@@ -8,6 +8,16 @@ git clone <this-repo>
 ```sh
 bash <script-name>
 ```
+
+### --- or ---
+
+```sh
+chmod +x <script-name>
+```
+
+```sh
+./<script-name>
+```
  
 ## game.sh & functions.sh:
   * game.sh - Main file
